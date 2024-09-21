@@ -1,0 +1,42 @@
+.container {
+  border: 2px solid orange;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.title {
+  text-align: center;
+  color: orange;
+}
+
+.image-section {
+  margin: 10px 0;
+}
+
+.image-input {
+  width: 100%;
+}
+
+.field-container {
+  margin: 10px 0;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+}
+
+.submit-button {
+  width: 100%;
+  padding: 10px;
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
